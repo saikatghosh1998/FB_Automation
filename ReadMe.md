@@ -10,11 +10,15 @@
     
 **1)FbLoginAutomation.py**
 
-this is a script for automating facebook login sysytem.
+'this is a script for automating facebook login sysytem.'
 
 '''
+
 yoy have to replace '*' with your user name and password
 username='**********'
+
 password='**********'
+
 then just run the script
+
 '''
