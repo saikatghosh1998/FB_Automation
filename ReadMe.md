@@ -5,8 +5,8 @@
 **How to use**
 -You should have python installed in your machine 
 
-    *for installing python download python from https://www.python.org/
-    *install python and run th script
+    for installing python download python from https://www.python.org/
+    install python and run th script
     
 **1)FbLoginAutomation.py**
 
@@ -15,9 +15,9 @@ This is a script for automating facebook login sysytem.
 
 you have to replace 'asteric' with your user name and password.
 
-    *username='**********'
+    username='**********'
 
-    *password='**********'
+    password='**********'
 
 Then just run the script.
 
