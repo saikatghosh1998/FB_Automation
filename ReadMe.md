@@ -6,7 +6,9 @@
 -You should have python installed in your machine 
 
     for installing python download python from https://www.python.org/
-    install python and run th script
+    install python 
+    install selenium
+    
     
 **1)FbLoginAutomation.py**
 
